@@ -11,7 +11,7 @@ function init()
 	});
 
 	$('.thumbnail').mouseleave(function() {
-		var id = ('#' + this.id);
+	   var id = ('#' + this.id);
 	   var alwaysVar = false;
 	   
 	   $(id).animate( {opacity: 1}, {always: alwaysVar}  );
