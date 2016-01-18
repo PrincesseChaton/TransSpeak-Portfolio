@@ -1,0 +1,25 @@
+#heart {
+	color: white;
+	text-decoration: none;
+}
+
+#heart:hover {
+	color: red;
+}
+
+#dropdown
+{
+	color: white;
+	text-decoration: none;
+	background: transparent;
+	border: none;
+}
+
+#dropdown:hover {
+	color: red;
+}
+
+#jumbotext
+{
+	text-align: center;
+}
